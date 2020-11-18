@@ -65,3 +65,4 @@ nebula_add_library(
 )
 
 nebula_add_subdirectory(client)
+nebula_add_subdirectory(data)
